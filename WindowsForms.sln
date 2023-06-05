@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Gym", "WindowsForms\Gym.csproj", "{006D0FD2-CC46-4365-8251-632A92F7FABF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Database_Connection", "ClassLibrary\Database_Connection.csproj", "{880FA370-5102-4305-BAA2-0072FE3534FA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{006D0FD2-CC46-4365-8251-632A92F7FABF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{006D0FD2-CC46-4365-8251-632A92F7FABF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{006D0FD2-CC46-4365-8251-632A92F7FABF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{006D0FD2-CC46-4365-8251-632A92F7FABF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{880FA370-5102-4305-BAA2-0072FE3534FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{880FA370-5102-4305-BAA2-0072FE3534FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{880FA370-5102-4305-BAA2-0072FE3534FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{880FA370-5102-4305-BAA2-0072FE3534FA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {152FE800-B001-4840-BB2D-DE18B77E8E15}
+	EndGlobalSection
+EndGlobal

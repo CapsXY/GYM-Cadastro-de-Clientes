@@ -1,0 +1,14 @@
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\bin\Release\ClassLibrary.dll.config
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\obj\Release\Database_Connection.csproj.AssemblyReference.cache
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\obj\Release\Database_Connection.csproj.CoreCompileInputs.cache
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Users\Caio Souza\source\repos\WindowsForms\ClassLibrary\obj\Release\ClassLibrary.pdb
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\bin\Release\ClassLibrary.dll.config
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\bin\Release\ClassLibrary.dll
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\bin\Release\ClassLibrary.pdb
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\obj\Release\Database_Connection.csproj.AssemblyReference.cache
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\obj\Release\Database_Connection.csproj.CoreCompileInputs.cache
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\obj\Release\ClassLibrary.dll
+C:\Users\Caio Souza\Documents\GitHub\GYM-Cadastro-de-Clientes\ClassLibrary\obj\Release\ClassLibrary.pdb
